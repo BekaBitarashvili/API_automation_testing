@@ -1,0 +1,9 @@
+Python
+Pycharm
+Postman
+Pytest
+LOCAL
+WordPress
+Woocommerce
+Ampps
+MySQLWorkbench
